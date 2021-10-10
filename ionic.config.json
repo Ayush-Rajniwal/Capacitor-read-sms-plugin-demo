@@ -1,0 +1,7 @@
+{
+  "name": "Capacitor Read SMS Example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
