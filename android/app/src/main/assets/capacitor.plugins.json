@@ -16,7 +16,7 @@
 		"classpath": "com.capacitorjs.plugins.statusbar.StatusBarPlugin"
 	},
 	{
-		"pkg": "read-sms",
+		"pkg": "cap-read-sms",
 		"classpath": "com.ayushrajniwal.plugins.readsms.ReadSMSPlugin"
 	}
 ]
